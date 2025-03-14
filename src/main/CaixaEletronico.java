@@ -37,7 +37,6 @@ public class CaixaEletronico {
         CaixaEletronico caixa = new CaixaEletronico();
         int opcao;
 
-        // Menu de opções
         do {
             System.out.println("\nSeja Bem Vindo! Escolha uma Das Opções abaixo");
             System.out.println("1 - Consultar saldo");
