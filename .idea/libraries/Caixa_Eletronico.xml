@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Caixa_Eletronico">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Caixa_Eletronico.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
